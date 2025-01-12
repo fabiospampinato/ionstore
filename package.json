@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/ionstore",
   "description": "A very simple isomorphic key-value store with a Map-like API for persisting session data.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/node.js",
   "types": "./dist/node.d.ts",
