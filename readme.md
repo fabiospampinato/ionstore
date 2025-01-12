@@ -7,7 +7,7 @@ This module simply uses a temporary file under Node, and `sessionStorage` under 
 ## Install
 
 ```sh
-npm install --save ionstore
+npm install ionstore
 ```
 
 ## Usage
